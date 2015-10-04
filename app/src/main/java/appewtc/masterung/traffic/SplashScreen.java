@@ -25,8 +25,7 @@ public class SplashScreen extends AppCompatActivity {
         MediaPlayer introMediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.intro_tata);
         introMediaPlayer.start();
 
-
-
+        
     }   // onCreate
 
 }   // Main Class
